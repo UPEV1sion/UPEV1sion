@@ -8,4 +8,4 @@
 
 # Side Project:
 
-`Chess Engine` in ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) with en passant, pawn promotion and minimax algorithm with alpha beta pruning and move ordering
+`Chess Engine` in Java pawn promotion and minimax algorithm with alpha beta pruning and move ordering
