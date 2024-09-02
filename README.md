@@ -8,4 +8,4 @@
 
 # Side Project:
 
-`Chess Engine` in Java pawn promotion and minimax algorithm with alpha beta pruning and move ordering
+`Chess Engine` in Java pawn promotion, en passant and minimax algorithm with alpha beta pruning and move ordering
