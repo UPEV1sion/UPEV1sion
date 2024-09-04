@@ -4,7 +4,7 @@
 
 # Currently Working on:
 
-`Enigma` / `Turing Bomb` implementation in C
+`Enigma` / `Cyclometer` / `Turing Bomb` implementation in C
 
 # Side Project:
 
