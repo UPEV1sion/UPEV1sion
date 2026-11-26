@@ -5,6 +5,5 @@
 
 # Currently Working on:
 
-My [Task Tracker](https://github.com/UPEV1sion/tt) implementation in C
-and
-A [`clox`](https://codeberg.org/UPEV1sion/clox) implementation from [Crafting Interpreters](https://craftinginterpreters.com/) on Codeberg
+- My [Task Tracker](https://github.com/UPEV1sion/tt) implementation in C
+- A [`clox`](https://codeberg.org/UPEV1sion/clox) implementation from [Crafting Interpreters](https://craftinginterpreters.com/) on Codeberg
